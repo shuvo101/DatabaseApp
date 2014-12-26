@@ -1,0 +1,9 @@
+c:\users\pc21\documents\visual studio 2013\Projects\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.exe.config
+c:\users\pc21\documents\visual studio 2013\Projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.csprojResolveAssemblyReference.cache
+c:\users\pc21\documents\visual studio 2013\Projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.Form1.resources
+c:\users\pc21\documents\visual studio 2013\Projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.Properties.Resources.resources
+c:\users\pc21\documents\visual studio 2013\Projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.csproj.GenerateResource.Cache
+c:\users\pc21\documents\visual studio 2013\Projects\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.exe
+c:\users\pc21\documents\visual studio 2013\Projects\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.pdb
+c:\users\pc21\documents\visual studio 2013\Projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.exe
+c:\users\pc21\documents\visual studio 2013\Projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.pdb
